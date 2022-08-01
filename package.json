@@ -1,0 +1,16 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com o Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Fernando Bade",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.1",
+    "cypress-mochawesome-reporter": "^3.2.0",
+    "mochawesome": "^7.1.3"
+  }
+}
